@@ -1,0 +1,355 @@
+{
+    "education": [
+        {
+            "sectionTitle": "Ausbildung",
+            "sectionId": "Ed1",
+            "year": "1993 - 1995",
+            "title": "Vermessungstechniker",
+            "entries": [
+                {
+                    "index": "index-zufällig-1",
+                    "display": "none",
+                    "description": {
+                        "describe": "B.E.P. Bauwesen & Vermessungstechnik.",
+                        "place": ["Lycée Auguste Perret, Le Havre"]
+                    }
+                }
+            ]
+        },
+        {
+            "sectionId": "Ed2",
+            "year": "2021 - 2022",
+            "title": "Selbststudium",
+            "entries": [
+                {
+                    "index": "index-zufällig-2",
+                    "display": "none",
+                    "description": {
+                        "describe": "Adobe Photoshop, Illustrator, Dreamweaver ...",
+                        "place": [
+                            "HTML & CSS (Auf Mozilla Developer Network - MDN)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "sectionId": "Ed3",
+            "year": "2022 - 2023",
+            "title": "Webentwickler/Webintegrator",
+            "entries": [
+                {
+                    "index": "index-zufällig-3",
+                    "display": "none",
+                    "description": {
+                        "describe": "Webintegrator",
+                        "place": ["E-Learning: OpenClassrooms"]
+                    }
+                }
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "sectionTitle": "Berufserfahrung",
+            "sectionId": "Exp1",
+            "year": "2021 - 2022",
+            "title": "Webentwickler",
+            "techTitle": "Technologien",
+            "entries": [
+                {
+                    "id": "aEd3",
+                    "size": 25,
+                    "index": "zufälliger-index-4",
+                    "jobTitle": "Micro-Service.online",
+                    "addClass": "timeline-text_add ",
+                    "technologies": {
+                        "HTML": true,
+                        "CSS": true,
+                        "jQuery": true,
+                        "JS": true
+                    },
+                    "description": {
+                        "paragraph": "Erstellung einer persönlichen Website mit Dienstleistungen für Design und Wartung von IT-Hardware.",
+                        "itemLi": []
+                    }
+                },
+                {
+                    "id": "aEd4",
+                    "index": "zufälliger-index-5",
+                    "jobTitle": "Curriculum Vitae",
+                    "addClass": "timeline-text_add ",
+                    "technologies": {
+                        "HTML": true,
+                        "CSS": true,
+                        "JS": true
+                    },
+                    "description": {
+                        "paragraph": "Erstellung eines interaktiven Lebenslaufs.",
+                        "itemLi": []
+                    }
+                }
+            ]
+        },
+        {
+            "sectionId": "Exp2",
+            "year": "2022 - 2023",
+            "title": "Webentwickler/Webintegrator",
+            "techTitle": "Technologien",
+            "entries": [
+                {
+                    "size": 25,
+                    "id": "aEd5",
+                    "index": "zufälliger-index-6",
+                    "jobTitle": "Riding Cities",
+                    "addClass": "timeline-text_add ",
+                    "technologies": {
+                        "HTML": true,
+                        "CSS": true
+                    },
+                    "description": {
+                        "paragraph": "Fertigstellung der Landingpage der Website Riding Cities (Webonzaï-Agentur).",
+                        "itemLi": []
+                    }
+                },
+                {
+                    "size": 25,
+                    "id": "aEd6",
+                    "index": "zufälliger-index-7",
+                    "jobTitle": "Booki",
+                    "addClass": "timeline-text_add ",
+                    "technologies": {
+                        "HTML": true,
+                        "CSS": true
+                    },
+                    "description": {
+                        "paragraph": "Integration der Web-Schnittstelle für Booki.",
+                        "itemLi": [
+                            "Umsetzung von Layouts in HTML/CSS-Code.",
+                            "Erstellung einer responsiven Web-Schnittstelle.",
+                            "Optimierung der Leistung und Kompatibilität mit modernen Browsern."
+                        ]
+                    }
+                },
+                {
+                    "size": 25,
+                    "id": "aEd7",
+                    "index": "zufälliger-index-8",
+                    "addClass": "timeline-text_add ",
+                    "jobTitle": "OhMyFood",
+                    "technologies": {
+                        "HTML": true,
+                        "CSS": true,
+                        "Sass": true
+                    },
+                    "description": {
+                        "paragraph": "Junior-Entwickler bei OhMyFood - Erstellung einer Mobile-First-Website",
+                        "itemLi": [
+                            "Integration von mobilen und Desktop-Layouts.",
+                            "Entwicklung einer responsiven Website mit Animationen.",
+                            "Enge Zusammenarbeit mit dem UX-Designer und Einhaltung des kreativen Briefings.",
+                            "Erstellung einer Plattform zur Auflistung von Menüs von Gourmetrestaurants mit Reservierungs- und individueller Menüzusammenstellung."
+                        ]
+                    }
+                },
+                {
+                    "size": 25,
+                    "id": "aEd8",
+                    "index": "zufälliger-index-9",
+                    "addClass": "timeline-text_add ",
+                    "jobTitle": "Print-It",
+                    "technologies": {
+                        "HTML": true,
+                        "CSS": true,
+                        "JS": true
+                    },
+                    "description": {
+                        "paragraph": "Freiberuflicher Front-End-Entwickler bei Print-It - Carrousel-Projekt",
+                        "itemLi": [
+                            "Dynamisierung einer statischen Website.",
+                            "Implementierung eines Carrousels.",
+                            "Beitrag zur Verbesserung der Benutzererfahrung."
+                        ]
+                    }
+                },
+                {
+                    "size": 25,
+                    "id": "aEd9",
+                    "index": "zufälliger-index-10",
+                    "addClass": "timeline-text_add ",
+                    "jobTitle": "Portfolio - Sophie Bluel",
+                    "technologies": {
+                        "HTML": true,
+                        "CSS": true,
+                        "JS": true
+                    },
+                    "description": {
+                        "paragraph": "Front-End-Entwickler bei ArchiWebos - Integration eines Portfolio-Websites für einen Innenarchitekten",
+                        "itemLi": [
+                            "Gestaltung der Portfolio-Website für den Innenarchitekten basierend auf einer Vorlage.",
+                            "Entwicklung der Präsentationsseite mit Integration einer Filtergalerie.",
+                            "Erstellung der Administrator-Anmeldeseite.",
+                            "Entwurf eines Modals zum Hochladen von Medien."
+                        ]
+                    }
+                },
+                {
+                    "id": "bEd1",
+                    "size": 25,
+                    "index": "zufälliger-index-11",
+                    "addClass": "timeline-text_add ",
+                    "jobTitle": "Menu Maker by Qwenta",
+                    "technologies": {
+                        "Agil": true,
+                        "Scrum": true,
+                        "Notion": true,
+                        "Trello": true,
+                        "Wakelet": true
+                    },
+                    "description": {
+                        "paragraph": "Projektleiter für Webentwicklung bei Webgencia - Projekt „Menu Maker by Qwenta“",
+                        "itemLi": [
+                            "Planung und Projektmanagement für die Entwicklung eines „Menu Maker“ für Qwenta.",
+                            "Zusammenarbeit mit dem Product Owner, Vorbereitung eines Projektvalidierungs-Meetings mit Qwenta.",
+                            "Hauptaufgaben: Recherche, technische Spezifikationen, Projektplanung."
+                        ]
+                    }
+                },
+                {
+                    "id": "bEd2",
+                    "size": 25,
+                    "addClass": "timeline-text_add ",
+                    "index": "zufälliger-index-12",
+                    "jobTitle": "Kasa",
+                    "technologies": {
+                        "HTML": true,
+                        "CSS": true,
+                        "React": true,
+                        "Sass": true,
+                        "JS": true
+                    },
+                    "description": {
+                        "paragraph": "Freiberuflicher Front-End-Entwickler für Kasa - Website-Redesign",
+                        "itemLi": [
+                            "Wechsel von ASP.NET zu einer JavaScript-Stack (NodeJS/React).",
+                            "Entwicklung der React-Anwendung gemäß Vorlagen.",
+                            "Einhaltung technischer und funktionaler Anforderungen.",
+                            "Verwendung von Daten (JSON-Datei).",
+                            "Entwicklung von React-Komponenten.",
+                            "Erstellung von Routen mit React Router.",
+                            "Einhaltung der Kodierungsrichtlinien von Kasa."
+                        ]
+                    }
+                },
+                {
+                    "id": "bEd3",
+                    "size": 25,
+                    "index": "zufälliger-index-13",
+                    "addClass": "timeline-text_add ",
+                    "jobTitle": "Nina Carducci",
+                    "technologies": {
+                        "SEO": true,
+                        "HTML": true,
+                        "CSS": true,
+                        "JS": true,
+                        "jQuery": true
+                    },
+                    "description": {
+                        "paragraph": "SEO-Optimierung für Nina Carducci - Fotografin",
+                        "itemLi": [
+                            "Erkennung von Leistungs- und SEO-Problemen.",
+                            "Gesamtoptimierung, Bilder und Code, Leistung und Zugänglichkeit.",
+                            "Metabeschreibungen (überprüfte Schlüsselwörter).",
+                            "Metatags, Social Media.",
+                            "Lokales SEO (Schema.org), Hinzufügung von Informationen (Adresse, Telefonnummer, Öffnungszeiten, Kontakt usw.).",
+                            "Optimierungsbericht für Google Rich Snippet, Wave-Erweiterung."
+                        ]
+                    }
+                },
+                {
+                    "id": "bEd5",
+                    "size": 25,
+                    "index": "zufälliger-index-14",
+                    "addClass": "timeline-text_add ",
+                    "jobTitle": "77events",
+                    "technologies": {
+                        "React": true,
+                        "CSS": true,
+                        "JS": true,
+                        "Jest": true,
+                        "Eslint": true
+                    },
+                    "description": {
+                        "paragraph": "Optimierung und Fehlerbehebung, Fertigstellung der Website 77events",
+                        "itemLi": [
+                            "Erstellung und Durchführung von unitären und Integrations-Tests.",
+                            "Fehlerbehebung.",
+                            "Validierung von Tests, Überprüfung des Verhaltens der Komponenten.",
+                            "Erstellung des Rezepts-Handbuchs (Hinzufügen von Test-Szenarien)."
+                        ]
+                    }
+                },
+                {
+                    "id": "bEd7",
+                    "index": "zufälliger-index-15",
+                    "addClass": "timeline-text_add ",
+                    "jobTitle": "ArgentBank",
+                    "technologies": {
+                        "React": true,
+                        "Redux": true,
+                        "SCSS": true,
+                        "JS": true,
+                        "MongoDB": true
+                    },
+                    "description": {
+                        "paragraph": "Entwicklung der Bankanwendungs-App: ArgentBank",
+                        "itemLi": [
+                            "Erstellung einer vollständigen, responsiven Webanwendung mit React.",
+                            "Verwendung von Redux zur Verwaltung des Anwendungsstatus.",
+                            "Erstellung einer API zur Implementierung von Authentifizierungs-, Anmelde-, Abmelde- und Profilansichtsfunktionen.",
+                            "Anwendung bewährter Green-Code-Praktiken, Optimierung von Bildern, Erstellung wiederverwendbarer Komponenten."
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "profile": {
+        "section": "Über mich",
+        "presentation": "Ich bin Jérémy, ein ",
+        "jobTitle": "Webentwickler",
+        "description": "Als Webentwickler-Integrator mit Leidenschaft für Webdesign und Website-Design reicht mein Fachwissen vom Grafikdesign bis zur Front-End-Programmierung. Ich erstelle interaktive Websites, optimiert für Performance und SEO. Mein Ziel ist es, stets auf der Suche nach den neuesten technologischen Trends zu sein und erstklassige Weblösungen anzubieten.",
+        "personalInfo": {
+            "Geburtstag": "27. Juni 1977",
+            "Alter": 46,
+            "Website": "www.domain.com",
+            "E-Mail": "web.my.dev@gmail.com",
+            "Ausbildung": "Web-integrator",
+            "Telefon": "+33 6 35 02 06 41",
+            "Stadt": "Le Havre",
+            "Freiberuflich": "Verfügbar"
+        },
+        "buttons": {
+            "btnName1": "Meinen Lebenslauf herunterladen",
+            "btnName2": "Kontaktieren Sie mich"
+        },
+        "skills": [
+            {
+                "name": "HTML",
+                "percent": 94
+            },
+            {
+                "name": "CSS",
+                "percent": 92
+            },
+            {
+                "name": "JS",
+                "percent": 84
+            },
+            {
+                "name": "React",
+                "percent": 76
+            }
+        ]
+    }
+}
