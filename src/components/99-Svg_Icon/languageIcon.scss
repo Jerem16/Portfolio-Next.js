@@ -1,0 +1,21 @@
+@import "../../assets/styles/00_utils/3_mixins";
+
+.form_lang-icon {
+    @include row_R;
+    align-items: center;
+    justify-content: center;
+    // width: 30px;
+    // height: 30px;
+    // margin: 0 15px;
+    font-size: 5em;
+    &:hover {
+        fill: var(--skin-color);
+    }
+}
+
+.color-icon {
+    fill: var(--text-black-900);
+    &:hover {
+        fill: var(--skin-color);
+    }
+}
